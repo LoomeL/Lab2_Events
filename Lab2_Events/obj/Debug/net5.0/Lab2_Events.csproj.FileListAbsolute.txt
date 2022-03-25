@@ -1,0 +1,16 @@
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\bin\Debug\net5.0\Lab2_Events.exe
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\bin\Debug\net5.0\Lab2_Events.deps.json
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\bin\Debug\net5.0\Lab2_Events.runtimeconfig.json
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\bin\Debug\net5.0\Lab2_Events.runtimeconfig.dev.json
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\bin\Debug\net5.0\Lab2_Events.dll
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\bin\Debug\net5.0\ref\Lab2_Events.dll
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\bin\Debug\net5.0\Lab2_Events.pdb
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\obj\Debug\net5.0\Lab2_Events.csproj.AssemblyReference.cache
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\obj\Debug\net5.0\Lab2_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\obj\Debug\net5.0\Lab2_Events.AssemblyInfoInputs.cache
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\obj\Debug\net5.0\Lab2_Events.AssemblyInfo.cs
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\obj\Debug\net5.0\Lab2_Events.csproj.CoreCompileInputs.cache
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\obj\Debug\net5.0\Lab2_Events.dll
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\obj\Debug\net5.0\ref\Lab2_Events.dll
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\obj\Debug\net5.0\Lab2_Events.pdb
+C:\Users\kotge\RiderProjects\Lab2_Events\Lab2_Events\obj\Debug\net5.0\Lab2_Events.genruntimeconfig.cache
